@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Chalii Themes — Zed</h1>
+<h1 align="center">⚡ Chalii Themes - Zed</h1>
 
 <p align="center">
   Premium light and dark themes for <a href="https://zed.dev">Zed</a> with warm orange accents and excellent readability.<br>
@@ -25,10 +25,10 @@
 
 ## 🌟 Highlights
 
-- ☀️🌙 **Two variants in one extension** — **Chalii Light** and **Chalii Dark**, selectable per appearance with `"theme": { "mode": "system" }`
-- 🟠 **Chalii palette** — warm orange accents, purple types, teal strings, deep `#0e0e0f` dark background
-- 🧩 **Full Zed theme schema** — 130+ UI style keys (editor, panels, tabs, terminal ANSI colours, git/diagnostic colours), 40+ syntax scopes and a collaboration `players` palette
-- 🔁 **Generated from the source palette** — stays in sync with the VS Code, JetBrains, Sublime, Neovim and terminal ports
+- ☀️🌙 **Two variants in one extension** - **Chalii Light** and **Chalii Dark**, selectable per appearance with `"theme": { "mode": "system" }`
+- 🟠 **Chalii palette** - warm orange accents, purple types, teal strings, deep `#0e0e0f` dark background
+- 🧩 **Full Zed theme schema** - 130+ UI style keys (editor, panels, tabs, terminal ANSI colours, git/diagnostic colours), 40+ syntax scopes and a collaboration `players` palette
+- 🔁 **Generated from the source palette** - stays in sync with the VS Code, JetBrains, Sublime, Neovim and terminal ports
 
 ## ✨ Features
 
@@ -85,7 +85,7 @@ chalii-zed/
 npm run build:zed   # writes ports/zed/
 ```
 
-**Do not edit the generated files here directly** — open issues and pull requests against [chalii-themes](https://github.com/chaliidesigns/chalii-themes/issues), then sync the regenerated output into this repo and tag a release.
+**Do not edit the generated files here directly** - open issues and pull requests against [chalii-themes](https://github.com/chaliidesigns/chalii-themes/issues), then sync the regenerated output into this repo and tag a release.
 
 ## 📄 License
 
@@ -93,14 +93,14 @@ npm run build:zed   # writes ports/zed/
 
 ## 👤 Author
 
-**Chalii Designs** — design & engineering studio by Jackson Makinda — [makindajackson.com](https://makindajackson.com)
+**Chalii Designs** - design & engineering studio by Jackson Makinda - [makindajackson.com](https://makindajackson.com)
 
 - 📧 Email: me@makindajackson.com
 - 💼 LinkedIn: [Jackson Makinda](https://linkedin.com/in/makindajack)
 - 🎨 Dribbble: [@makindajack](https://dribbble.com/makindajack)
 - 🐦 Twitter: [@makindajack](https://twitter.com/makindajack)
 
-Part of the **Chalii** design ecosystem — [Themes](https://github.com/chaliidesigns/chalii-themes) • [Icons](https://github.com/chaliidesigns/chalii-icons) • [Sublime](https://github.com/chaliidesigns/chalii-sublime) • [Obsidian](https://github.com/chaliidesigns/chalii-obsidian) • [Spicetify](https://github.com/chaliidesigns/chalii-spicetify)
+Part of the **Chalii** design ecosystem - [Themes](https://github.com/chaliidesigns/chalii-themes) • [Icons](https://github.com/chaliidesigns/chalii-icons) • [Sublime](https://github.com/chaliidesigns/chalii-sublime) • [Obsidian](https://github.com/chaliidesigns/chalii-obsidian) • [Spicetify](https://github.com/chaliidesigns/chalii-spicetify)
 
 ---
 
